@@ -1,3 +1,4 @@
+<img align="right" src="https://lucianoferrari.com.ar/img/programador.png" width="200" style="max-width:100%;">
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
