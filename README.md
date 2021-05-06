@@ -7,7 +7,7 @@
 <div><img align="right" src="https://lucianoferrari.com.ar/img/programador.png" width="200" style="max-width:100%;"></div>
 <div>
   
-  
+  <a href="https://twitter.com/feyaluciano" target="_blank">
   <img src="https://img.shields.io/twitter/follow/feyaluciano?style=social" width="100px">
   
  
