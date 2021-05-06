@@ -12,6 +12,8 @@
 
 <p><em>Desarrollador Web</em> Full Stack</p>
 
+<p> Este array lo fui cargando mientras fue pasando el tiempo, de algunos tengo más experiencia, de otros menos, pero en todos aprendí algo, espero seguir pusheando siempre. </p>
+
 
 <div class="highlight highlight-source-js"><pre>
  public myLanguajes:Array<Language> = [
@@ -39,7 +41,11 @@ public myDataBases:Array<Database> = [
   {current: true, name: 'SqlServer'},  
 ];
 
-
+public myMovilSkils:Array<MovilSkil> = [
+  {current: false, name: 'Phonegap'},
+  {current: false, name: 'Android nativo'},
+  {current: true, name: 'Ionic'},  
+];
 
 </pre></div>
 
