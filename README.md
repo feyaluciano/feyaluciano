@@ -8,9 +8,9 @@
 <div>
   
   
-  <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="100px">
+  <img src="https://img.shields.io/twitter/follow/feyaluciano?style=social" width="100px">
   <a class="twitter-follow-button"
-  href="https://twitter.com/feyaluciano"
+  href="https://img.shields.io/twitter/follow/feyaluciano?style=social"
   data-size="large">
 Follow @feyaluciano</a>
   
