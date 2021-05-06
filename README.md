@@ -7,7 +7,7 @@
 <div><img align="right" src="https://lucianoferrari.com.ar/img/programador.png" width="200" style="max-width:100%;"></div>
 <div>
   
-  <a href="https://twitter.com/ThaiiBraga" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: ThaiiBraga" data-canonical-src="https://img.shields.io/twitter/follow/ThaiiBraga?style=social" style="max-width:100%;"></a>
+  <a href="https://twitter.com/feyaluciano" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: ThaiiBraga" data-canonical-src="https://img.shields.io/twitter/follow/ThaiiBraga?style=social" style="max-width:100%;"></a>
   
 </div>
 
