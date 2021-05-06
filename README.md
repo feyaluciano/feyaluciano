@@ -9,10 +9,8 @@
   
   
   <img src="https://img.shields.io/twitter/follow/feyaluciano?style=social" width="100px">
-  <a class="twitter-follow-button"
-  href="https://img.shields.io/twitter/follow/feyaluciano?style=social"
-  data-size="large">
-Follow @feyaluciano</a>
+  
+ 
   
  
   
