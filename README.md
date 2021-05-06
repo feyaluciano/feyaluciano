@@ -12,7 +12,7 @@
   data-size="large">
 Follow @feyaluciano</a>
   
-  < a href = "https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a>
+ 
   
 </div>
 
