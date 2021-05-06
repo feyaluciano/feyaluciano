@@ -5,7 +5,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966">
   <img src="https://i.pinimg.com/originals/c1/b3/bd/c1b3bd612569318953462aeb3873223d.gif" width="50" data-canonical-src="https://i.pinimg.com/originals/c1/b3/bd/c1b3bd612569318953462aeb3873223d.gif" style="max-width:100%;"></a></h2>
 <div><img align="right" src="https://lucianoferrari.com.ar/img/programador.png" width="200" style="max-width:100%;"></div>
-<div><p><a href="https://twitter.com/feyaluciano?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @feyaluciano</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
+<div>
+  
+  <a href="https://twitter.com/ThaiiBraga" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: ThaiiBraga" data-canonical-src="https://img.shields.io/twitter/follow/ThaiiBraga?style=social" style="max-width:100%;"></a>
+  
+</div>
 
 
 
