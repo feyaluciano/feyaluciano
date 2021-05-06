@@ -13,18 +13,17 @@
 <p><em>Desarrollador Web</em> Full Stack</p>
 
 
-<div class="highlight highlight-source-js"><pre><span class="pl-k">const</span> <span class="pl-s1">thai</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">pronouns</span>: <span class="pl-s">"she"</span> <span class="pl-c1">|</span> <span class="pl-s">"her"</span><span class="pl-kos">,</span>
-  <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">Javascript</span><span class="pl-kos">,</span> <span class="pl-v">Typescript</span><span class="pl-kos">,</span> <span class="pl-c1">HTML</span><span class="pl-kos">,</span> <span class="pl-c1">CSS</span><span class="pl-kos">,</span> <span class="pl-v">Ruby</span><span class="pl-kos">,</span> <span class="pl-v">Python</span><span class="pl-kos">,</span> <span class="pl-v">Java</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">tools</span>: <span class="pl-kos">[</span><span class="pl-v">React</span><span class="pl-kos">,</span> <span class="pl-v">Redux</span><span class="pl-kos">,</span> <span class="pl-v">Node</span><span class="pl-kos">,</span> <span class="pl-v">Storybook</span><span class="pl-kos">,</span> <span class="pl-v">Styled</span><span class="pl-c1">-</span><span class="pl-v">Components</span><span class="pl-kos">,</span> <span class="pl-v">Jest</span><span class="pl-kos">,</span> <span class="pl-v">Docker</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">architecture</span>: <span class="pl-kos">[</span><span class="pl-s">"microservices"</span><span class="pl-kos">,</span> <span class="pl-s">"event-driven"</span><span class="pl-kos">,</span> <span class="pl-s">"design system pattern"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">techCommunities</span>: <span class="pl-kos">{</span>
-                        <span class="pl-c1">coorganizer</span>: <span class="pl-s">"AfroPython"</span><span class="pl-kos">,</span>
-                        <span class="pl-c1">speaker</span>: <span class="pl-s">"Latinity"</span><span class="pl-kos">,</span>
-                        <span class="pl-c1">mentor</span>: <span class="pl-s">"EducaTRANSforma"</span>
-                      <span class="pl-kos">}</span><span class="pl-kos">,</span>
- <span class="pl-c1">challenge</span>: <span class="pl-s">"I am doing the #100DaysOfCode challenge focused on react and typescript"</span>
-<span class="pl-kos">}</span></pre></div>
+<div class="highlight highlight-source-js"><pre>
+const arr: MyArrayType = [
+    {id: 1, text: 'Sentence 1'},
+    {id: 2, text: 'Sentence 2'},
+    {id: 3, text: 'Sentence 3'},
+    {id: 4, text: 'Sentenc4 '},
+];
+
+
+
+</pre></div>
 
 
 
