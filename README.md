@@ -14,11 +14,29 @@
 
 
 <div class="highlight highlight-source-js"><pre>
-const arr: MyArrayType = [
-    {id: 1, text: 'Sentence 1'},
-    {id: 2, text: 'Sentence 2'},
-    {id: 3, text: 'Sentence 3'},
-    {id: 4, text: 'Sentenc4 '},
+ public myLanguajes:Array<Language> = [
+    {current: false, name: 'Pascal'},
+    {current: false, name: 'Asp'},
+    {current: false, name: 'Delphi'},
+    {current: false, name: 'Smalltalk'},
+    {current: false, name: 'Java'},
+    {current: true, name: 'JavaScript'},
+    {current: true, name: 'JQuery'},
+    {current: false, name: 'Angularjs'},
+    {current: true, name: 'Php'},
+    {current: true, name: 'C#'},
+    {current: true, text: 'TypeScript'},
+];
+public myFrameworks:Array<Framework> = [
+  {current: false, name: 'Hibernate'},
+  {current: false, name: 'Laravel'},
+  {current: true, name: 'EntityFramework'},
+  {current: true, name: 'Angular'}  
+];
+public myDataBases:Array<Database> = [
+  {current: false, name: 'PostgreSQL'},
+  {current: true, name: 'Mysql'},
+  {current: true, name: 'SqlServer'},  
 ];
 
 
