@@ -34,7 +34,6 @@
     {current: false, name: 'Smalltalk'},
     {current: false, name: 'Java'},
     {current: true, name: 'JavaScript'},
-    {current: true, name: 'JQuery'},
     {current: false, name: 'Angularjs'},
     {current: true, name: 'Php'},
     {current: true, name: 'C#'},
