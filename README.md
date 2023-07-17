@@ -67,5 +67,10 @@ public myMovilSkils:Array<MovilSkil> = [
   {current: true, name: 'Ionic'},  
 ];
 
+public myStreamingPlatforms:Array<StreamingPlatforms> = [
+  {current: true, name: 'Kafka'},
+  {current: true, name: 'Nifi'}  
+];
+
 </pre>
 </div>
