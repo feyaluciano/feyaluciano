@@ -64,12 +64,12 @@ public myDataBases:Array<Database> = [
 public myMovilSkils:Array<MovilSkil> = [
   {current: false, name: 'Phonegap'},
   {current: false, name: 'Android nativo'},
-  {current: true, name: 'Ionic'},  
+  {current: true, name: 'Ionic'}
 ];
 
 public myStreamingPlatforms:Array<StreamingPlatforms> = [
   {current: true, name: 'Kafka'},
-  {current: true, name: 'Nifi'}  
+  {current: true, name: 'Nifi'}
 ];
 
 </pre>
