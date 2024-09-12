@@ -43,14 +43,14 @@
     {current: false, name: 'Delphi'},
     {current: false, name: 'Smalltalk'},
     {current: false, name: 'Java'},
-    {current: true, name: 'JavaScript'},
-    {current: false, name: 'Angularjs'},
+    {current: true, name: 'JavaScript'},    
     {current: true, name: 'Php'},
     {current: true, name: 'C#'},
     {current: true, text: 'TypeScript'},
 ];
 public myFrameworks:Array<Framework> = [
   {current: false, name: 'Hibernate'},
+  {current: false, name: 'Angularjs'},
   {current: false, name: 'Laravel'},
   {current: true, name: 'EntityFramework'},
   {current: true, name: 'Angular'}  
